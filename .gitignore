@@ -48,3 +48,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# ignore huge corpus file
+/data/output.p
